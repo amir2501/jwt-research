@@ -93,6 +93,26 @@ These results indicate a measurable performance difference between the two imple
 
 ---
 
+## Research Paper
+
+The full research paper is available here:
+
+[Read the Research Paper](paper/Performance_Overhead_JWT_REST_APIs.pdf)
+
+---
+
+## Publication Status
+
+This paper is an independent experimental research study.
+
+The repository contains the source code, benchmark configuration,
+raw experimental results and analysis scripts required to reproduce
+the reported experiment.
+
+The paper is provided as a publicly accessible research manuscript.
+
+---
+
 ## Project Structure
 
 ```text
