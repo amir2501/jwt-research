@@ -138,8 +138,6 @@ jwt-research/
 │   ├── latency.png
 │   └── p99-latency.png
 │
-├── tests/
-│
 ├── .env.example
 ├── .gitignore
 ├── package.json
