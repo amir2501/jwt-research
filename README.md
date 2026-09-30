@@ -140,7 +140,7 @@ jwt-research/
 │
 ├── tests/
 │
-├── .env
+├── .env.example
 ├── .gitignore
 ├── package.json
 └── package-lock.json
