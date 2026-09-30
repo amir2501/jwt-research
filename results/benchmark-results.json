@@ -1,0 +1,642 @@
+[
+  {
+    "configuration": "baseline",
+    "connections": 10,
+    "duration": 10,
+    "requests": 19727.28,
+    "latency": {
+      "average": 0.02,
+      "median": 0,
+      "p97_5": 0,
+      "p99": 1
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 1
+  },
+  {
+    "configuration": "jwt",
+    "connections": 10,
+    "duration": 10,
+    "requests": 3841.55,
+    "latency": {
+      "average": 2.25,
+      "median": 2,
+      "p97_5": 4,
+      "p99": 4
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 1
+  },
+  {
+    "configuration": "baseline",
+    "connections": 10,
+    "duration": 10,
+    "requests": 18422.55,
+    "latency": {
+      "average": 0.02,
+      "median": 0,
+      "p97_5": 0,
+      "p99": 1
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 2
+  },
+  {
+    "configuration": "jwt",
+    "connections": 10,
+    "duration": 10,
+    "requests": 3809.37,
+    "latency": {
+      "average": 2.24,
+      "median": 2,
+      "p97_5": 4,
+      "p99": 4
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 2
+  },
+  {
+    "configuration": "baseline",
+    "connections": 10,
+    "duration": 10,
+    "requests": 18449.6,
+    "latency": {
+      "average": 0.02,
+      "median": 0,
+      "p97_5": 0,
+      "p99": 1
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 3
+  },
+  {
+    "configuration": "jwt",
+    "connections": 10,
+    "duration": 10,
+    "requests": 3820.28,
+    "latency": {
+      "average": 2.24,
+      "median": 2,
+      "p97_5": 4,
+      "p99": 4
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 3
+  },
+  {
+    "configuration": "baseline",
+    "connections": 10,
+    "duration": 10,
+    "requests": 18479.28,
+    "latency": {
+      "average": 0.03,
+      "median": 0,
+      "p97_5": 0,
+      "p99": 1
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 4
+  },
+  {
+    "configuration": "jwt",
+    "connections": 10,
+    "duration": 10,
+    "requests": 3850.46,
+    "latency": {
+      "average": 2.24,
+      "median": 2,
+      "p97_5": 4,
+      "p99": 4
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 4
+  },
+  {
+    "configuration": "baseline",
+    "connections": 10,
+    "duration": 10,
+    "requests": 18472,
+    "latency": {
+      "average": 0.02,
+      "median": 0,
+      "p97_5": 0,
+      "p99": 1
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 5
+  },
+  {
+    "configuration": "jwt",
+    "connections": 10,
+    "duration": 10,
+    "requests": 3850.28,
+    "latency": {
+      "average": 2.24,
+      "median": 2,
+      "p97_5": 4,
+      "p99": 4
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 5
+  },
+  {
+    "configuration": "baseline",
+    "connections": 25,
+    "duration": 10,
+    "requests": 18441.46,
+    "latency": {
+      "average": 1.06,
+      "median": 1,
+      "p97_5": 2,
+      "p99": 2
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 1
+  },
+  {
+    "configuration": "jwt",
+    "connections": 25,
+    "duration": 10,
+    "requests": 3828.64,
+    "latency": {
+      "average": 6.28,
+      "median": 6,
+      "p97_5": 12,
+      "p99": 12
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 1
+  },
+  {
+    "configuration": "baseline",
+    "connections": 25,
+    "duration": 10,
+    "requests": 18418.19,
+    "latency": {
+      "average": 1.06,
+      "median": 1,
+      "p97_5": 2,
+      "p99": 2
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 2
+  },
+  {
+    "configuration": "jwt",
+    "connections": 25,
+    "duration": 10,
+    "requests": 3819.91,
+    "latency": {
+      "average": 6.28,
+      "median": 6,
+      "p97_5": 12,
+      "p99": 12
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 2
+  },
+  {
+    "configuration": "baseline",
+    "connections": 25,
+    "duration": 10,
+    "requests": 18442.91,
+    "latency": {
+      "average": 1.06,
+      "median": 1,
+      "p97_5": 2,
+      "p99": 2
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 3
+  },
+  {
+    "configuration": "jwt",
+    "connections": 25,
+    "duration": 10,
+    "requests": 3811,
+    "latency": {
+      "average": 6.28,
+      "median": 6,
+      "p97_5": 12,
+      "p99": 12
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 3
+  },
+  {
+    "configuration": "baseline",
+    "connections": 25,
+    "duration": 10,
+    "requests": 18493.82,
+    "latency": {
+      "average": 1.06,
+      "median": 1,
+      "p97_5": 2,
+      "p99": 2
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 4
+  },
+  {
+    "configuration": "jwt",
+    "connections": 25,
+    "duration": 10,
+    "requests": 3826.28,
+    "latency": {
+      "average": 6.27,
+      "median": 6,
+      "p97_5": 12,
+      "p99": 12
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 4
+  },
+  {
+    "configuration": "baseline",
+    "connections": 25,
+    "duration": 10,
+    "requests": 18538.91,
+    "latency": {
+      "average": 1.06,
+      "median": 1,
+      "p97_5": 2,
+      "p99": 2
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 5
+  },
+  {
+    "configuration": "jwt",
+    "connections": 25,
+    "duration": 10,
+    "requests": 3825.73,
+    "latency": {
+      "average": 6.27,
+      "median": 6,
+      "p97_5": 12,
+      "p99": 12
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 5
+  },
+  {
+    "configuration": "baseline",
+    "connections": 50,
+    "duration": 10,
+    "requests": 18488,
+    "latency": {
+      "average": 2.18,
+      "median": 2,
+      "p97_5": 3,
+      "p99": 4
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 1
+  },
+  {
+    "configuration": "jwt",
+    "connections": 50,
+    "duration": 10,
+    "requests": 3838.64,
+    "latency": {
+      "average": 12.47,
+      "median": 12,
+      "p97_5": 14,
+      "p99": 25
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 1
+  },
+  {
+    "configuration": "baseline",
+    "connections": 50,
+    "duration": 10,
+    "requests": 18546.19,
+    "latency": {
+      "average": 2.18,
+      "median": 2,
+      "p97_5": 3,
+      "p99": 4
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 2
+  },
+  {
+    "configuration": "jwt",
+    "connections": 50,
+    "duration": 10,
+    "requests": 3806.46,
+    "latency": {
+      "average": 12.55,
+      "median": 12,
+      "p97_5": 14,
+      "p99": 25
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 2
+  },
+  {
+    "configuration": "baseline",
+    "connections": 50,
+    "duration": 10,
+    "requests": 18281.46,
+    "latency": {
+      "average": 2.19,
+      "median": 2,
+      "p97_5": 3,
+      "p99": 5
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 3
+  },
+  {
+    "configuration": "jwt",
+    "connections": 50,
+    "duration": 10,
+    "requests": 3808.1,
+    "latency": {
+      "average": 12.55,
+      "median": 12,
+      "p97_5": 14,
+      "p99": 25
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 3
+  },
+  {
+    "configuration": "baseline",
+    "connections": 50,
+    "duration": 10,
+    "requests": 18410.91,
+    "latency": {
+      "average": 2.18,
+      "median": 2,
+      "p97_5": 3,
+      "p99": 5
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 4
+  },
+  {
+    "configuration": "jwt",
+    "connections": 50,
+    "duration": 10,
+    "requests": 3794.46,
+    "latency": {
+      "average": 12.57,
+      "median": 12,
+      "p97_5": 14,
+      "p99": 25
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 4
+  },
+  {
+    "configuration": "baseline",
+    "connections": 50,
+    "duration": 10,
+    "requests": 18528.73,
+    "latency": {
+      "average": 2.18,
+      "median": 2,
+      "p97_5": 3,
+      "p99": 4
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 5
+  },
+  {
+    "configuration": "jwt",
+    "connections": 50,
+    "duration": 10,
+    "requests": 3824.1,
+    "latency": {
+      "average": 12.55,
+      "median": 12,
+      "p97_5": 14,
+      "p99": 25
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 5
+  },
+  {
+    "configuration": "baseline",
+    "connections": 100,
+    "duration": 10,
+    "requests": 18310.55,
+    "latency": {
+      "average": 5.05,
+      "median": 5,
+      "p97_5": 6,
+      "p99": 6
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 1
+  },
+  {
+    "configuration": "jwt",
+    "connections": 100,
+    "duration": 10,
+    "requests": 3819.37,
+    "latency": {
+      "average": 25.68,
+      "median": 25,
+      "p97_5": 28,
+      "p99": 30
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 1
+  },
+  {
+    "configuration": "baseline",
+    "connections": 100,
+    "duration": 10,
+    "requests": 18234.91,
+    "latency": {
+      "average": 5.07,
+      "median": 5,
+      "p97_5": 6,
+      "p99": 6
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 2
+  },
+  {
+    "configuration": "jwt",
+    "connections": 100,
+    "duration": 10,
+    "requests": 3834.28,
+    "latency": {
+      "average": 25.63,
+      "median": 25,
+      "p97_5": 27,
+      "p99": 30
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 2
+  },
+  {
+    "configuration": "baseline",
+    "connections": 100,
+    "duration": 10,
+    "requests": 18297.46,
+    "latency": {
+      "average": 5.05,
+      "median": 5,
+      "p97_5": 6,
+      "p99": 7
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 3
+  },
+  {
+    "configuration": "jwt",
+    "connections": 100,
+    "duration": 10,
+    "requests": 3839.55,
+    "latency": {
+      "average": 25.58,
+      "median": 25,
+      "p97_5": 27,
+      "p99": 29
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 3
+  },
+  {
+    "configuration": "baseline",
+    "connections": 100,
+    "duration": 10,
+    "requests": 18154.91,
+    "latency": {
+      "average": 5.11,
+      "median": 5,
+      "p97_5": 6,
+      "p99": 7
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 4
+  },
+  {
+    "configuration": "jwt",
+    "connections": 100,
+    "duration": 10,
+    "requests": 3810.82,
+    "latency": {
+      "average": 25.77,
+      "median": 25,
+      "p97_5": 28,
+      "p99": 50
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 4
+  },
+  {
+    "configuration": "baseline",
+    "connections": 100,
+    "duration": 10,
+    "requests": 18282.91,
+    "latency": {
+      "average": 5.05,
+      "median": 5,
+      "p97_5": 6,
+      "p99": 6
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 5
+  },
+  {
+    "configuration": "jwt",
+    "connections": 100,
+    "duration": 10,
+    "requests": 3817,
+    "latency": {
+      "average": 25.74,
+      "median": 25,
+      "p97_5": 27,
+      "p99": 50
+    },
+    "errors": 0,
+    "timeouts": 0,
+    "non2xx": 0,
+    "run": 5
+  }
+]
